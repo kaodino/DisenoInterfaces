@@ -48,11 +48,7 @@ public class Ej3 extends JFrame {
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 		
-		JLabel logoGoogle = new JLabel("");
-		logoGoogle.setForeground(new Color(255, 255, 255));
-		logoGoogle.setIcon(new ImageIcon(Ej3.class.getResource("/assets/7123025_logo_google_g_icon.png")));
-		logoGoogle.setBounds(471, 288, 48, 35);
-		contentPane.add(logoGoogle);
+		
 		
 		JLabel logoTwitter = new JLabel();
 //		logoTwitter.setIcon(new ImageIcon("C:\\Users\\kaodino\\Documents\\GitHub\\Interfaces\\recursos\\Xlogo.webp"));
@@ -65,7 +61,11 @@ public class Ej3 extends JFrame {
         
         
         
-		
+        JLabel logoGoogle = new JLabel("");
+		logoGoogle.setForeground(new Color(255, 255, 255));
+		logoGoogle.setIcon(new ImageIcon(Ej3.class.getResource("assets/7123025_logo_google_g_icon.png")));
+		logoGoogle.setBounds(471, 288, 48, 35);
+		contentPane.add(logoGoogle);
 		
 		JButton registroGoogle = new JButton("Registrarse con Google");
 		registroGoogle.setBounds(440, 300, 257, 23);
@@ -113,9 +113,14 @@ public class Ej3 extends JFrame {
 		contentPane.add(lblNewLabel);
 		
 		JLabel lblNewLabel_1 = new JLabel("New label");
-		lblNewLabel_1.setIcon(new ImageIcon(Ej3.class.getResource("/assets/7123025_logo_google_g_icon.png")));
-		lblNewLabel_1.setBounds(242, 433, 232, 232);
+		lblNewLabel_1.setHorizontalAlignment(SwingConstants.CENTER);
+		lblNewLabel_1.setForeground(new Color(255, 255, 255));
+		lblNewLabel_1.setBounds(326, 557, 66, 52);
+		ImageIcon icon2 = new ImageIcon(Ej3.class.getResource("/assets/7123025_logo_google_g_icon.png"));
+		lblNewLabel_1.setIcon(icon2);
 		contentPane.add(lblNewLabel_1);
+		
+		
 		
 		
 	}
