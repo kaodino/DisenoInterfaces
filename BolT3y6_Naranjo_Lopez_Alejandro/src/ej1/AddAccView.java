@@ -111,8 +111,6 @@ public class AddAccView extends JFrame {
                     // Mostrar un mensaje de éxito
                     JOptionPane.showMessageDialog(AddAccView.this, "Cuenta agregada exitosamente.", "Éxito", JOptionPane.INFORMATION_MESSAGE);
 
-                    // Cierra la ventana actual
-                    dispose();
                 } else {
                     // Mostrar un mensaje de error si algún campo está vacío
                     JOptionPane.showMessageDialog(AddAccView.this, "Por favor, complete todos los campos para agregar una cuenta.", "Campos Vacíos", JOptionPane.WARNING_MESSAGE);

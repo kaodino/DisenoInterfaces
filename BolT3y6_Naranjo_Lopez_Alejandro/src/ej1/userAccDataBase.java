@@ -9,12 +9,13 @@ public class userAccDataBase {
     private String username;
     private String filename;
     private String webSite;
-    
+    private static LogInView logIn = new LogInView();
     private static userAccDataBase instance;
 
     public static userAccDataBase getInstance() {
         if (instance == null) {
-            instance = new userAccDataBase("nombre_de_usuario"); // Reemplaza con el nombre de usuario adecuado
+        	String username = logIn.getEnteredUsername();
+            instance = new userAccDataBase(username); // Reemplaza con el nombre de usuario adecuado
         }
         return instance;
     }
