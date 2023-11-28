@@ -1,0 +1,45 @@
+**Licencia de Software - Anarlop.inc**
+
+**AVISO DE LICENCIA DE SOFTWARE**
+
+Este aviso de licencia de software (en adelante, "Licencia") es un acuerdo legal entre usted (el "Usuario") y Anarlop.inc (en adelante, "Licenciante"). Al instalar, copiar o utilizar este software, usted acepta los términos y condiciones de esta Licencia.
+
+**1. LICENCIA:**
+
+Licenciante otorga al Usuario una licencia no exclusiva y no transferible para utilizar el software de la calculadora proporcionado por Licenciante (en adelante, el "Software") de acuerdo con los términos y condiciones establecidos en esta Licencia.
+
+**2. DERECHOS DEL USUARIO:**
+
+- El Usuario tiene el derecho de instalar y utilizar el Software en un número ilimitado de dispositivos propiedad o controlados por el Usuario para fines personales o comerciales.
+- El Usuario puede realizar copias de seguridad del Software con el único propósito de restaurar el Software en caso de fallo del dispositivo.
+
+**3. RESTRICCIONES:**
+
+- El Usuario no puede realizar ingeniería inversa, descompilar ni desensamblar el Software.
+- El Usuario no puede sublicenciar, alquilar, arrendar ni transferir el Software a terceros sin el consentimiento expreso por escrito de Licenciante.
+
+**4. PROPIEDAD INTELECTUAL:**
+
+El Usuario reconoce y acepta que el Software es propiedad exclusiva de Licenciante y está protegido por leyes de derechos de autor y otras leyes de propiedad intelectual.
+
+**5. ACTUALIZACIONES Y SOPORTE:**
+
+Licenciante puede proporcionar actualizaciones periódicas del Software. El Usuario puede ser notificado de estas actualizaciones y, si lo desea, puede descargar e instalar dichas actualizaciones. El soporte técnico estará disponible de acuerdo con las políticas de soporte de Licenciante.
+
+**6. TERMINACIÓN:**
+
+Esta Licencia está vigente hasta que sea terminada por el Usuario o Licenciante. El Usuario puede terminarla en cualquier momento desinstalando el Software y destruyendo todas las copias. Licenciante puede terminar esta Licencia si el Usuario incumple cualquiera de los términos y condiciones establecidos aquí.
+
+**7. LIMITACIÓN DE RESPONSABILIDAD:**
+
+En ningún caso Licenciante será responsable de daños directos, indirectos, incidentales, especiales o consecuentes que surjan del uso o la imposibilidad de utilizar el Software.
+
+**8. LEY APLICABLE:**
+
+Esta Licencia se rige por las leyes del lugar de residencia del Usuario sin tener en cuenta sus conflictos de principios legales.
+
+Al instalar, copiar o utilizar el Software, el Usuario reconoce haber leído y entendido los términos y condiciones de esta Licencia y acepta cumplir con todos sus términos y condiciones. Si no está de acuerdo con estos términos, no instale, copie ni utilice el Software.
+
+Fecha de entrada en vigencia: [Fecha de Publicación]
+
+Anarlop.inc. Todos los derechos reservados.
