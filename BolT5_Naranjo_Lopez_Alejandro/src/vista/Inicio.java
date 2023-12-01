@@ -87,7 +87,7 @@ public class Inicio implements com.trolltech.qt.QUiForm<QMainWindow>
         palette.setColor(QPalette.ColorGroup.Disabled, QPalette.ColorRole.ToolTipBase, new QColor(255, 255, 220));
         palette.setColor(QPalette.ColorGroup.Disabled, QPalette.ColorRole.ToolTipText, new QColor(0, 0, 0));
         label.setPalette(palette);
-        label.setPixmap(new QPixmap(("../../../../Users/Kaodino/Downloads/apartamento.png")));
+        label.setPixmap(new QPixmap(("classpath:apartamento.bmp")));
         label.setScaledContents(true);
         verticalLayoutWidget = new QWidget(centralwidget);
         verticalLayoutWidget.setObjectName("verticalLayoutWidget");

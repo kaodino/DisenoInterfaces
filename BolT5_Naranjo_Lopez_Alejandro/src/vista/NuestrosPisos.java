@@ -33,12 +33,12 @@ public class NuestrosPisos implements com.trolltech.qt.QUiForm<QDialog>
         label = new QLabel(Dialog);
         label.setObjectName("label");
         label.setGeometry(new QRect(50, 40, 351, 321));
-        label.setPixmap(new QPixmap(("../../../../Users/Kaodino/Downloads/iloveimg-converted (3)/apartamento1.png")));
+        label.setPixmap(new QPixmap(("classpath:apartamento1.bmp")));
         label.setScaledContents(true);
         label_2 = new QLabel(Dialog);
         label_2.setObjectName("label_2");
         label_2.setGeometry(new QRect(470, 40, 351, 321));
-        label_2.setPixmap(new QPixmap(("../../../../Users/Kaodino/Downloads/iloveimg-converted (3)/apartamento2.png")));
+        label_2.setPixmap(new QPixmap(("classpath:apartamento2.bmp")));
         label_2.setScaledContents(true);
         btnPiso1 = new QPushButton(Dialog);
         btnPiso1.setObjectName("btnPiso1");
