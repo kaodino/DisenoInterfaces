@@ -2,12 +2,14 @@ package ies.naranjo.lopez.alejandro.bol7.controlador;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.ArrayList;
 
 import javax.swing.JButton;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
 import ies.naranjo.lopez.alejandro.bol7.dataBase.userAccDataBase;
+import ies.naranjo.lopez.alejandro.bol7.modelo.Account;
 import ies.naranjo.lopez.alejandro.bol7.vista.AccView;
 import ies.naranjo.lopez.alejandro.bol7.vista.AddAccView;
 import ies.naranjo.lopez.alejandro.bol7.vista.LogInView;
@@ -41,6 +43,7 @@ public class AddAccControlador implements ActionListener{
 
     @Override
     public void actionPerformed(ActionEvent e) {
+    	ArrayList<Account> AccList = new ArrayList<>();
         if (e.getSource() == btnAdd) {
             // Obtener el nombre de usuario introducido en LogInView
             LogInView logInView = new LogInView();

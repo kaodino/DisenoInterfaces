@@ -1,0 +1,8 @@
+No estoy satisfecho con el resultado de esta tarea.
+No me ha dado tiempo a terminar y me falta mucho del diseño y que muestre las cuentas del usuario en la lista.
+El unico motivo por el cual entrego esto es para que no esté la entrega en blanco. Soy conciente de que el que tiene
+la culpa soy yo por no haberme gestionado mejor.
+
+--Enlace a repositorio GitHub: https://github.com/kaodino/DisenoInterfaces.git
+
+Felices fiestas por cierto.
